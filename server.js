@@ -112,7 +112,7 @@ app.get('/api/health', (req, res) => {
 
 // --- Fallback: serve index.html ---
 app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'Index.HTML'));
+    res.sendFile(path.join(__dirname, 'index.html'));
 });
 
 // --- Start Server ---

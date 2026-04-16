@@ -316,7 +316,7 @@ const commands = {
 
             const socials = [
                 { name: '⚡ GitHub', url: 'https://github.com/' },
-                { name: '💼 LinkedIn', url: 'https://linkedin.com/' },
+                { name: '💼 LinkedIn', url: 'https://www.linkedin.com/in/renan-rodrigues-297194319/' },
                 { name: '🐦 Twitter/X', url: 'https://x.com/' },
             ];
 
