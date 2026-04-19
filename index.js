@@ -250,10 +250,10 @@ const commands = {
                     url: '#',
                 },
                 {
-                    title: '🌐 Web App Project',
-                    desc: 'Full-stack web application with Node.js backend.',
-                    tech: ['Node.js', 'Express', 'MongoDB'],
-                    url: '#',
+                    title: '🌐 Rox Shop / Web App Project',
+                    desc: 'Full-stack web application with Node.js for my business.',
+                    tech: ['Node.js', 'Express'],
+                    url: 'https://rnn-dev.github.io/Rox/',
                 },
                 {
                     title: '📱 Responsive Dashboard',
