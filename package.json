@@ -1,20 +1,26 @@
 {
-    "name": "renan-terminal-portfolio",
-    "version": "2.0.0",
-    "description": "Interactive terminal-style developer portfolio by Renan Rodrigues",
+    "name": "renan-portfolio",
+    "version": "3.0.0",
+    "description": "Modern developer portfolio by Renan Rodrigues - Clean, minimal, professional",
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
-        "dev": "node --watch server.js"
+        "dev": "node --watch server.js",
+        "test": "echo \"Tests not implemented yet\""
     },
     "keywords": [
         "portfolio",
-        "terminal",
         "developer",
-        "javascript"
+        "javascript",
+        "full-stack",
+        "modern",
+        "minimal"
     ],
     "author": "Renan Rodrigues",
     "license": "MIT",
+    "engines": {
+        "node": ">=18.0.0"
+    },
     "dependencies": {
         "express": "^4.21.0",
         "cors": "^2.8.5"
